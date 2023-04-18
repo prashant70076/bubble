@@ -1,0 +1,65 @@
+.shopNow-button
+{
+    background-image: url("img/orange-strok1.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: transparent;
+    border-width: 0px;
+    text-align: center;
+    display: block;
+    height: 40px;
+    padding: 10px auto 10px auto;
+    font-family: 'Nunito', sans-serif;
+    color: #F0EAD6;
+
+}
+
+.big-heading h4
+{
+    font-size: 30px ;
+}
+.big-heading h1{
+    font-size: 35px;
+}
+
+.title-image
+{
+    margin-top: 50px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.services-lst
+{
+    background-color: #E3E6F3;
+    color: rgb(1, 12, 8);
+}
+
+.features-img
+{
+    padding: 50px;
+    padding-bottom: 0%;
+}
+
+
+.featured-product
+{
+  background-color:  #F0EAD6;
+  padding-bottom: 90px;
+}
+.featured-product-title
+{
+    padding-top: 100px;
+    padding-bottom:20px;
+    text-align: center;
+    font-weight: 200;
+}
+
+.ads1
+{
+    background-color: #F0EAD6;
+    padding-bottom: 50px;
+}
