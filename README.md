@@ -1,2 +1,2 @@
 # bubble
-bubble is a shopping website
+https://illustrious-zuccutto-4f4d6a.netlify.app/
